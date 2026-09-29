@@ -26,10 +26,7 @@
 
 #
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=JoaoVitor-Stival&theme=transparent&hide_border=true" />
-<img src="https://github-contributor-stats.vercel.app/api?username=JoaoVitor-Stival&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
-</div>
+
 
 #
 
