@@ -38,6 +38,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoVitor-Stival/JoaoVitor-Stival/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+#
+
+
 ###
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
