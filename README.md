@@ -7,7 +7,7 @@
 
 #
 <p align="left">
-
+Formado em Ciência da Computação, tenho interesse na área de programação e desenvolvimento de software. Estou em busca de novos desafios e oportunidades para ampliar meus conhecimentos, desenvolver minhas habilidades e crescer profissionalmente na área de tecnologia.
 
 
 #
