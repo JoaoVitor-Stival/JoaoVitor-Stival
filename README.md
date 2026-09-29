@@ -27,8 +27,8 @@
 #
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=joaovitor-stival&theme=transparent&hide_border=true" />
-<img src="https://github-contributor-stats.vercel.app/api?username=joaovitor-stival&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=JoaoVitor-Stival&theme=transparent&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=JoaoVitor-Stival&limit=5&theme=transparent&combine_all_yearly_contributions=true" />
 </div>
 
 #
@@ -36,9 +36,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitor-stival/joaovitor-stival/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitor-stival/joaovitor-stival/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaovitor-stival/joaovitor-stival/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVitor-Stival/JoaoVitor-Stival/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVitor-Stival/JoaoVitor-Stival/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoaoVitor-Stival/JoaoVitor-Stival/output/pacman-contribution-graph.svg">
 </picture>
 
 #
